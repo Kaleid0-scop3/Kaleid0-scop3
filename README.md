@@ -36,7 +36,7 @@
 
 # 📊 GitHub Stats
 <p align="center">
-  <a href="#"><img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=Mrrainbow0704&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" /></a>
-  <a href="#"><img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mrrainbow0704&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" /></a>
-  <a href="#"><img align="center" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=Mrrainbow0704&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" /></a>
+  <a href="#"><img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=Kaleid0-scop3&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" /></a>
+  <a href="#"><img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kaleid0-scop3&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" /></a>
+  <a href="#"><img align="center" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=Kaleid0-scop3&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" /></a>
 </p>
